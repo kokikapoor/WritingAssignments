@@ -1,0 +1,18 @@
+## Koki Kapoor 
+## Week 4 Writing Assignment 
+## CSC 630
+## Due: Friday, October 8, 2020
+&nbsp;
+
+*Prompt: As part of a larger movement to reduce the usage of the word "master" in computer science, GitHub recently started shifting away from the name master of the default branch in new GitHub repositories. Consider researching and writing about this recent shift, staying mindful that this particular topic is a place more for facts and less for your own opinions.*   
+&nbsp;
+> Master/Slave terminology has been a highly contested topic in the field of technology—computer science, music technology, social media coding—for decades now. The terms **“master”** and **“slave”** are common ones not just for the branches of a repository on GitHub but also as descriptive terms for the relationship between two computer hard drives or two camera flashes. The casual racist actions of freely and openly using terms like **“master”**, **“slave”**, **“blacklist”**, **“whitelist”** in code with no understanding or discussion of what this terminology represents in the larger sphere of institutionalized racism in the country serves as a marker of the privilege of the typically cis-white males who dominate the tech industry. The lack of real change, until the upsurge of the **Black Lives Matter** movement this summer also reveals how ingrained and pervasive racism is in the technology industry. However, some of the occasional outbursts that have taken place over the years are an indication that coders and even Big tech firms such as **Apple, Alphabet (Google), GitHub, and Twitter** are thinking about their actions. For example, in 2018, problematic slave terminology was removed from *Python*, one of the most popular programming languages in the world. Unfortunately, this decision was not made without much debate. Some programmers agreed that the word **“slave”** had to be removed but believed that **“master”** didn’t have a similar connotation. Others believed that if the goal was equality, then removing the **“master/slave”** terminology was contradictory and an offense to the **BDSM** subculture. Ultimately though, most of the terminology changes were indeed adopted into the *Python* language. This event also set the ball rolling for other languages such as *Drupal* (which switched to **“primary”/”replica”**) and *Django* (which switched to **“follower/leader”**) as well. In regards to **GitHub’s** recent attempts at changing the name of the **“master”** default branch to **“main,”** there have been many allegations of performative wokeness in the light of the **BLM movement**. However, I think that it’s important to understand that while a simple change of terminology in the tech industry is not going to eradicate the racial violence and inequality that still persists in the United States, this change is a sign that the industry understands that casual references to slavery in code are wrong, racist, and unethical. This simple change also serves the much larger purpose of making technology a field that is welcoming and accessible for BIPOC, specifically black people by showing solidarity and a commitment to justice. 
+&nbsp;
+&nbsp;
+
+Citations:    
+[GitHub article](https://github.com/github/renaming)   
+[Dice article](https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/)   
+[C|Net article](https://www.cnet.com/news/master-and-slave-tech-terms-face-scrutiny-amid-anti-racism-efforts/)     
+[Vice article](https://www.vice.com/en/article/8x7akv/masterslave-terminology-was-removed-from-python-programming-language)     
+[CDM artcile](https://cdm.link/2020/06/lets-dump-master-slave-terms/)    
