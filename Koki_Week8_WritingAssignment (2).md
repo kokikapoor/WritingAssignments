@@ -1,7 +1,7 @@
 ## Koki Kapoor 
-## Week 7 Writing Assignment 
+## Week 8 Writing Assignment 
 ## CSC 630
-## Due: Friday, October 30, 2020
+## Due: Friday, November 6, 2020
 &nbsp;
 
 *Prompt: How do you create and maintain a community of open source contributors? What should you add to your open-source library (including, at least, a well-written readme file: what should go into it?) to make it welcoming and inclusive?  
