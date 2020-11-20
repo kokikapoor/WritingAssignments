@@ -1,7 +1,7 @@
 ## Koki Kapoor 
 ## Week 5 Writing Assignment 
 ## CSC 630
-## Due: Friday, October 8, 2020
+## Due: Friday, October 16, 2020
 &nbsp;
 
 *Prompt: What are open source licenses and why should you care? (Hint: you should probably care ) How should you choose one?   
